@@ -41,7 +41,9 @@ Randomly become Wave Triggers.
 
 ### Wave Triggers
 
-Allow triggering a wave of the indicated team color
+Allow triggering a wave of the indicated team color.
+
+Reverts to Ocean after about two seconds.
 
 Single click -> Send Wave of the indicated color
 
